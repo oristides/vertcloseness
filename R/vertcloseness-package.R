@@ -1,6 +1,6 @@
 #' Describe the package.
 #'
 #' @name vertcloseness
-#' @import IGRAPH
+#' @import igraph
 #' @docType package
 NULL
