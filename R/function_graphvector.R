@@ -1,5 +1,7 @@
 url<-"https://github.com/oristides/vertcloseness/blob/master/data/edges.dat"
 
+library(igraph)
+
 edges<-read.table(url)
 social <- graph.data.frame(edges)
 
