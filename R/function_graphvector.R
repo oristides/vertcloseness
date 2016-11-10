@@ -1,4 +1,4 @@
-url<-"https://github.com/oristides/vertcloseness/blob/master/edges.dat"
+url<-"https://github.com/oristides/vertcloseness/blob/master/data/edges.dat"
 
 edges<-read.table(url)
 social <- graph.data.frame(edges)
