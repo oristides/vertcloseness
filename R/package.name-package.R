@@ -1,6 +1,6 @@
 #' Describe the package.
 #'
-#' @name package.name
-#' @import stringr
+#' @name vertcloseness
+#' @import IGRAPH
 #' @docType package
 NULL
