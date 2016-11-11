@@ -1,4 +1,4 @@
-Package: package.name
+Package: vertcloseness
 Type: Package
 Title: package name (http://github.com/author/package)
 Description: Describe the package.
@@ -12,9 +12,7 @@ Depends:
 License: MIT
 LazyData: true
 Imports:
-    stringr
+    igraph
 Suggests:
-    knitr,
-    microbenchmark,
-    testthat
+    knitr
 Roxygen: list(wrap = FALSE)
