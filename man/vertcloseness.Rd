@@ -2,7 +2,9 @@
 % Please edit documentation in R/vertcloseness-package.R
 \docType{package}
 \name{vertcloseness}
-\alias{vertcloseness}
+\arguments{
+  \item{vertice_name}{your name. Required.}
+  
 \alias{vertcloseness-package}
 \title{Describe the package.}
 \description{
