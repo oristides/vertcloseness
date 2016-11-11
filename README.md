@@ -14,7 +14,7 @@ Where 4 is the name of the vertice where I want the closeness measure.
 
 
 
-To use with !Postman(https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)
+To use with [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)
 
 Just post
 
