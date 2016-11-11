@@ -1,4 +1,4 @@
-Vertcloseness [![Build Status](
+Vertcloseness
 ============
 
 
@@ -6,7 +6,7 @@ Repository to Graph
 Given a vertice it give the closeness measure for this graph.
 
 
-
+![Social Graph] (https://raw.githubusercontent.com/oristides/vertcloseness/master/graph.png)
 
 To use:
 
