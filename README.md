@@ -25,3 +25,8 @@ en body parameters
 key= vertice_name value = 4
 
 Where 4 is the name of the vertice where I want the closeness measure.
+
+Extra:
+Argument can be a vector, in the form c(x,y,z). I will return (more than one) closeness measures for vertice x, vertice y and vertice z. This is for the option if you want multplie closeness measures at the same time.
+
+
