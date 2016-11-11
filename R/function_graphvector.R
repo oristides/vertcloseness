@@ -1,8 +1,9 @@
-url<-"https://github.com/oristides/vertcloseness/blob/master/data/edges.tab"
+url<-"https://raw.githubusercontent.com/oristides/vertcloseness/master/data/edges.tab"
+
 
 library(igraph)
 
-edges<-read.table(url)
+edges<-read.csv(url, header = F, sep = " ")
 social <- graph.data.frame(edges)
 
 closeness_by_name<-function(vertice_name) { if(class(vertice_name)=="numeric"){
