@@ -3,11 +3,10 @@
 \docType{package}
 \name{closeness_by_name}
 \arguments{
-  \item{vertice_name}{your name. Required.}
+  \item{vertice_name}
   
 \alias{vertcloseness-package}
 \title{vertice closeness}
 \description{
-packague tht give the closeness metric toa given vertice
-}
+packague tht give the closeness metric toa given vertice}
 
