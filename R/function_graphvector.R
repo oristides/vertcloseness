@@ -1,4 +1,4 @@
-url<-"https://github.com/oristides/vertcloseness/blob/master/data/edges.dat"
+url<-"https://github.com/oristides/vertcloseness/blob/master/data/edges.tab"
 
 library(igraph)
 
